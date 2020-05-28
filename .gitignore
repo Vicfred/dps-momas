@@ -1,0 +1,13 @@
+# ignore all
+*
+
+# except source files
+!*.cpp
+!*.d
+!*.hs
+
+# dont ignore gitignore
+!.gitignore
+
+# whitelist the license
+!LICENSE
